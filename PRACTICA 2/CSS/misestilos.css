@@ -1,0 +1,30 @@
+p{
+    color:crimson;
+    width: 500px;
+    border: 1px solid black;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    color:blueviolet;
+    text-align: center;
+}
+#mensaje1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: 2px dashed purple;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 40px;
+    color:palevioletred;
+}
+.comentario{
+    font-size: 14px;
+    text-align: right;
+    border: 0;
+    color: black;
+}
+h1,li{
+    color: beige;
+}
